@@ -1,0 +1,10 @@
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\bin\Debug\CFreriksAssignment3.exe.config
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\bin\Debug\CFreriksAssignment3.exe
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\bin\Debug\CFreriksAssignment3.pdb
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.csprojAssemblyReference.cache
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.TicTacToe.resources
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.Properties.Resources.resources
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.csproj.GenerateResource.cache
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.exe
+C:\Users\chris_2\source\repos\CFreriksAssignment3\CFreriksAssignment3\obj\Debug\CFreriksAssignment3.pdb
